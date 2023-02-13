@@ -1,0 +1,344 @@
+p,h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .mhc_pricing_menus_item_title, .mhc_pricing_menus_item_price, .mhc_currency_sign, .mhc_testimonial_author, .mhc_testimonials_slide_author, .mh_quote_content blockquote, #top-menu li a, span.fn, span.fn a{
+    font-family: 'El Messiri', sans-serif;
+;}
+
+
+body{
+}
+
+/*  comtact-us */
+
+.contact-us{
+    min-height: 40px;
+    background: #6f0000;
+    color: #c7c1c1
+    
+}
+.fa-2x{
+    float: left;
+    font-size: 15px;
+    margin: 10px;
+    line-height: 40px;
+    color: #fff;
+    font-weight: bolder    
+}
+/* contact-us */
+ 
+
+/* start nav bar */
+.navbar{
+    margin-bottom: 0px;
+    background: #330000;
+    
+}
+
+
+.navbar-default .navbar-nav > li > a{
+    color: #ddd4d4;
+}
+.navbar-inverse .navbar-brand{
+    font-family: 'Reem Kufi', sans-serif;
+    line-height: 40px;
+    font-size: 30px;
+    color: #fff
+    
+}
+.navbar{
+    min-height: 80px
+}
+.navbar-inverse .navbar-nav > li > a{
+    line-height: 40px;
+    font-family: 'El Messiri', sans-serif;
+    font-size: 16px
+}
+
+  
+/*end  nav bar */
+
+
+/*start header*/
+.header h1{
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 60px;
+    color: #99eb98
+   
+}
+.header h2 span{
+    color:#e84a5f
+}
+
+
+.carousel-caption{
+    padding-bottom: 180px;
+   
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    width: 100%;
+}
+.carousel-inner .item .overlay{
+        background-color:rgba(0,0,0,0.6 );
+    position: absolute;
+    top:0;
+    left: 0;
+    bottom:0;
+    right: 0;
+    width: 100%;
+    height: 100%
+}
+.btn{
+    font-size: 16px;
+    font-family: 'El Messiri', sans-serif;
+    margin: 5px
+
+}
+
+/* End header */
+
+
+
+
+
+/*     Start places */
+.places
+{
+    
+    padding-top:100px;
+    padding-bottom: 100px;
+  
+    
+   
+}
+.places p{
+    text-shadow: 20px
+}
+.places .place span{
+ 
+    color:  #e84a5f
+   
+}
+.places .place h4{
+    color:  #691212;
+    margin-top:5px
+}
+
+    
+/*      End  places   */
+
+/*START SECTION CARS */
+.show a{
+    color: #e84a5f
+    
+}
+.cars{
+    background: #2a363b;
+    padding-top:40px;
+    padding-bottom: 40px;
+    color: #fff;
+}
+.cars p{
+    padding-top:20px;
+    padding-bottom: 20px;
+    font-size: 16px
+    
+}
+.car{
+    background:#fff;
+    padding:10px;
+    border: 2px solid#99eb98;
+    color:#333;
+    margin-bottom: 10px;
+ -webkit-transition-duration: 0.7s;
+        -moz-transition-duration: 0.7s;
+        -o-transition-duration: 0.7s;
+       transition-duration: 0.7s    
+}
+.car:hover{
+      -webkit-transform:scale(1.1,1.1) rotate(360deg);
+        -moz-transform:scale(1.1,1.1)  rotate(360deg);
+        -o-transform:scale(1.1,1.1)  rotate(360deg);
+       transform:scale(1.1,1.1)  rotate(360deg)
+}
+.cars h3{
+    color:#e84a5f
+}
+/* END SECTION CARS */
+
+
+/* START SECTION SHOW */
+.show{
+    margin-top:70px
+}
+.show .show-car{
+    padding-top:40px;
+    padding-bottom:40px;
+    margin-bottom:10px;
+    
+
+}
+.show p{
+    padding-top:20px;
+}
+.show h3{
+    color:#e84a5f
+}
+/*END SECTION SHOW */
+
+
+
+/* START SECTION ABOUT*/
+.about{
+    background:url(../images/16.jpg)no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+    width: 100%;
+    min-height: 600px;
+    margin-top: 80px
+    
+}
+.about .overlay{
+    background: rgba(0, 0, 0, 0.8);
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+    width: 100%;
+    min-height: 600px;
+    margin-top:45px;
+    margin-bottom: 20px;
+    color:#99eb98
+    
+}
+.about1{
+    color:#fff;
+    padding-top:30px;
+    padding-bottom: 20px;
+    
+}
+.about1 h1{
+    color:#e5ef00;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 20px;
+font-family: 'El Messiri', sans-serif
+
+}
+.about li{
+    font-size: 25px;
+    line-height: 70px;
+font-family: 'El Messiri', sans-serif
+    
+}
+/*END SECTION ABOUT*/
+
+
+/* start secton skills */
+
+.skills{
+    padding-top:100px;
+    padding-bottom: 120px;
+}
+.skill2 h2{
+    margin-top:0px;
+    margin-bottom: 20px
+}
+.skills .progress{
+    height: 25px
+}
+.skills .progress-bar{
+    line-height: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'El Messiri', sans-serif;
+}
+
+/* END SECTION SKILLS*/
+
+
+
+
+/* START SECTION CONTACT*/
+.contact{
+    margin-top: 40px;
+    background: url(../images/11.jpg)no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+    min-height: 300px
+}
+.contact .feild{
+    background: rgba(9,9,9,0.6);
+    min-height: 300;
+    padding-top:40px;
+    padding-bottom: 40px;
+    color: #fff
+}
+.contact p{margin-bottom: 50px}
+.feild p{
+    font-size: 20px
+}
+.contact textarea{
+    height: 108px
+}
+.contact input[type="text"],
+.contact textarea{
+    background: rgba(82,78,78,0.5);
+    color: #fff;
+    border:non
+}
+.contact input[type="text"], .contact textarea{
+        font-family: 'El Messiri', sans-serif;
+
+    
+}
+
+/* END SECTION CONTACT*/
+
+
+
+
+
+/*   price  */
+.price{
+    background: #e84a5f;
+    color: #fff;
+    padding-top:100px;
+    padding-bottom: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+/*   price  */
+
+
+
+
+
+/* footer*/
+.footer{
+    background:#000000 ;
+    min-height: 200px;
+    line-height: 150px
+}
+
+
+
+/*footer */
+
+
+/* copy right */
+.copyright{
+    font-family: 'Reem Kufi', sans-serif;;
+    color: #fff;
+    font-size: 10px;
+}
+.copyright a{
+    color: #b4b0b0;
+        font-family: 'Reem Kufi', sans-serif;;
+
+        
+}
+/* copy right */
+
+
